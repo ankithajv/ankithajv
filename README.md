@@ -23,15 +23,6 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 </p>
 
-<br />
 
-<h3 align="center">🔥 My GitHub Streak</h3>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitha-jv&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br />
-<h3 align="center">🏗️ 3D Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankitha-jv/ankitha-jv/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d stats">
 </p>
