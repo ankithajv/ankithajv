@@ -23,6 +23,3 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 </p>
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitha-jv&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
