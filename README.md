@@ -31,8 +31,7 @@
 </p>
 
 <br />
-
 <h3 align="center">🏗️ 3D Contribution Graph</h3>
 <p align="center">
-  <img src="https://github.com/ankitha-jv/ankitha-jv/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d stats">
+  <img src="https://raw.githubusercontent.com/ankitha-jv/ankitha-jv/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d stats">
 </p>
