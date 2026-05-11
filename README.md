@@ -70,6 +70,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithajv&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithajv&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
