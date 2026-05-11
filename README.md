@@ -11,10 +11,9 @@
 
 <h3 align="center">🌱 About Me</h3>
 <div align="center">
-  <p>I focus on building clean, full-stack web applications and solving Data Structures and Algorithms problems. I enjoy writing straightforward, humanized code.</p>
-  <p>🔭 Currently working on AI-integrated backend projects like <b>iTrack</b> and gamified web apps.</p>
-  <p>🏆 Active open-source contributor (Top 15 in WOCS) and participant in GSSoC & Hacktoberfest.</p>
-</div>
+  <p>I focus on building clean, full-stack web applications and solving Data Structures and Algorithms problems.</p>
+  <p>Currently working on AI-integrated projects , AI bots and web apps.</p>
+  </div>
 
 <hr/>
 
@@ -56,17 +55,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <a href="https://github.com/ankithajv">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankithajv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ankithajv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankithajv&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ankithajv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithajv&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ankithajv&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankithajv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/><br><br>
+  <img src="https://streak-stats.demolab.com/?user=ankithajv&theme=dark&hide_border=false" height="300"/>
+</p>
