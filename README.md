@@ -23,3 +23,29 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+  <a href="https://github.com/ankithajv">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=ankithajv&show_icons=true&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/ankithajv">
+    <img height="180em"
+      src="https://streak-stats.demolab.com?user=ankithajv&theme=tokyonight" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/ankithajv">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithajv&layout=compact&theme=tokyonight" />
+  </a>
+
+</div>
