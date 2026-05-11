@@ -57,17 +57,17 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/YOUR_EXACT_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ankithajv">
+    <img src="https://github-readme-stats.vercel.app/api?username=ankithajv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_EXACT_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/ankithajv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankithajv&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/YOUR_EXACT_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/ankithajv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithajv&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 <div align="center">
